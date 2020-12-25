@@ -6,11 +6,9 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/vi(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/vi(1).pdf" style="text-decoration:none;">Multimodal Machine Learning: A Survey and Taxonomy</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/vi(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/vi(2).pdf" style="text-decoration:none;">VideoBERT: A Joint Model for Video and Language Representation Learning</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Vision-and-Language-PreTrained-Model-Papers/blob/master/vi(3).pdf" style="text-decoration:none;">A Programming Language
 Based on Classical Logic</a></li>
